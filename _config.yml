@@ -21,7 +21,7 @@ repository               : "FranzSebast/sebastianfranz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BSA_3819.jpg"
   name             : "Sebastian Franz"
   pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
